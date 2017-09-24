@@ -7,7 +7,7 @@ states = [0]
 
 iters = 20
 step = 1
-step_extend = 10
+step_extend = 20
 for k in range(iters):
 	states_new = []
 	for i in range(len(states)):
