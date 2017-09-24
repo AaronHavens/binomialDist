@@ -2,4 +2,4 @@
 Toy binomial distributions and experiements
 
 
-![alt text](exagerated_interference.png)
+![alt text](https://github.com/AaronHavens/binomialDist/blob/master/exagerated_interfence.png)
