@@ -1,5 +1,5 @@
 # binomialDist
 Toy binomial distributions and experiements
 
-
-![alt text](https://raw.githubusercontent.com/AaronHavens/binomialDist/master/exagerated_interference.png)
+## Interesting Inteference pattern when taking E[f(E[x])] of a bernoulli distributed variable.
+![alt text](https://github.com/AaronHavens/binomialDist/blob/master/exagerated_interfence.png)
